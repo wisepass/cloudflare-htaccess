@@ -6,6 +6,7 @@ Allow from 103.22.200.0/22
 Allow from 103.31.4.0/22
 Allow from 104.16.0.0/12
 Allow from 108.162.192.0/18
+Allow from 131.0.72.0/22
 Allow from 141.101.64.0/18
 Allow from 162.158.0.0/15
 Allow from 172.64.0.0/13
